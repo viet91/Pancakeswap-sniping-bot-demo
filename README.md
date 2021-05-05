@@ -42,6 +42,7 @@ my_pk = ''</pre>
 
 <H2>Soon to be added</H2> 
 1. Adding option to only buy if price is less than X$ when bot snipes.
+<br></br>
 
 2. Let the bot buy at max price impact if the initial BNB amount is too big for the liquidity provided.
 
