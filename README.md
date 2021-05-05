@@ -39,6 +39,12 @@ my_pk = ''</pre>
 
 
 <br> </br>
+
+<H2>Soon to be added</H2> 
+1. Adding option to only buy if price is less than X$ when bot snipes.
+2. Let the bot buy at max price impact if the initial BNB amount is too big for the liquidity provided.
+
+
 <H2>Functions</H2>
 
 
@@ -47,6 +53,10 @@ my_pk = ''</pre>
 <b>BNB to trade</b>: Amount of BNB you want to use in the sniping transaction
 
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
+
+....
+
+
 
 
 
