@@ -4,7 +4,7 @@ Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a G
 If you have any questions or inquiries, or the full version of this bot, you can contact me via telegram: <b>aviddot</b>
 
 
-![image](https://user-images.githubusercontent.com/72505611/117017207-b514c600-acf3-11eb-9a4c-345d9d1fd81d.png)
+![image](https://user-images.githubusercontent.com/72505611/117162340-f7f19f00-adc2-11eb-8451-f9efd5d2f8c8.png)
 
 
 
