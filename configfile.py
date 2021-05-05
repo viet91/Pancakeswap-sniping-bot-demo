@@ -12,7 +12,7 @@ infura_url='https://bsc-dataseed3.defibit.io/'
 enable_liq_decrease='0'
 enable_waiting='1'
 liq_before='1'
-approvetoken='1'
+approvetoken='0'
 
 version='2'
 amount_threads='1'
