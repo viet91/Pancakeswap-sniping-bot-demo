@@ -1,10 +1,10 @@
 # Pancakeswap-sniping-bot-demo
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
-If you have any questions or inquiries, or the full version of this bot, you can contact me via telegram: <b>aviddot</b>
+If you have any questions or inquiries, or want the full version of this bot, you can contact me via telegram: <b>aviddot</b>
 
 
-![image](https://user-images.githubusercontent.com/72505611/117017207-b514c600-acf3-11eb-9a4c-345d9d1fd81d.png)
+![image](https://user-images.githubusercontent.com/72505611/117335565-96513380-ae9b-11eb-9c85-c69285dabc74.png)
 
 
 
@@ -39,6 +39,14 @@ my_pk = ''</pre>
 
 
 <br> </br>
+
+<H2>Soon to be added</H2> 
+1. Adding option to only buy if price is less than X$ when bot snipes.
+<br></br>
+
+2. Let the bot buy at max price impact if the initial BNB amount is too big for the liquidity provided.
+
+
 <H2>Functions</H2>
 
 
@@ -47,6 +55,10 @@ my_pk = ''</pre>
 <b>BNB to trade</b>: Amount of BNB you want to use in the sniping transaction
 
 <b>Pcs version</b>: Which version of Pancakeswap you want to snipe on <b>(this setting can only be edited from the configfile.py)</b>
+
+....
+
+
 
 
 
