@@ -28,6 +28,7 @@ pricesell='0.5'
 
 
 version='2'
+getclipboard='1'
 amount_threads='1'
 my_address = ''
 my_pk = ''
