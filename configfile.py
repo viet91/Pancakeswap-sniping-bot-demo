@@ -21,7 +21,7 @@ enable_priceselling='1'
 enablesellslippage='1'
 onlysell='0'
 
-gasusage='500000'
+gasusage='70000'
 sellslippage='40'
 pricebuy='2'
 pricesell='0.5'
