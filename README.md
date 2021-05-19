@@ -1,5 +1,7 @@
 # Pancakeswap-sniping-bot-demo
-Hey jason
+
+
+<H2>People, please note that my only telegram account is named Aviddot (@aviddot), and its an useraccount, please be aware of scammers!</H2>
 
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
