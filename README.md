@@ -1,11 +1,8 @@
 # Pancakeswap-sniping-bot-demo
 
 
-<H2>People, please note that my only telegram account is named Aviddot (@aviddot), and its an useraccount, please be aware of scammers!</H2>
-
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
-If you have any questions or inquiries, or want the full version of this bot, you can contact me via telegram: <b>aviddot</b>
 
 <H2>Please also check the pdf guide I have added.</H2>
 
@@ -68,5 +65,3 @@ my_pk = ''</pre>
 
 
 
-
-<H2> If you want to full version of the bot for a relatively low price, contact me on telegram: @Aviddot</H2>
