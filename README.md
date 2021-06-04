@@ -1,7 +1,7 @@
 # Pancakeswap-sniping-bot-demo
 
 
-<H2> I am not active on telegram, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H2>
+<H2> I am not active on telegram at the moment, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H2>
 
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
