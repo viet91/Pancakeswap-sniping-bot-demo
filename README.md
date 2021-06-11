@@ -1,12 +1,13 @@
 # Pancakeswap-sniping-bot-demo
 
 
-If you have any questions or inquiries, you can contact my support via telegram: @aviddotsupport
+
 
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
 
-<H2>Please also check the pdf guide I have added.</H2>
+<H3>If you have any questions or inquiries, you can contact my support via telegram: @aviddotsupport</H3>
+
 
 
 ![image](https://user-images.githubusercontent.com/72505611/118034358-2db9f900-b36a-11eb-8152-1363f764af1c.png)
