@@ -1,9 +1,13 @@
 # Pancakeswap-sniping-bot-demo
+
+
+
+
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
-If you have any questions or inquiries, or want the full version of this bot, you can contact me via telegram: <b>aviddot</b>
 
-Please also check the pdf guide I have added.
+<H3>If you have any questions or inquiries, or want the full version of this bot, you can contact my support via telegram: <b><a href="https://t.me/aviddotsupport">@aviddotsupport</a></b> </H3>
+
 
 
 ![image](https://user-images.githubusercontent.com/72505611/118034358-2db9f900-b36a-11eb-8152-1363f764af1c.png)
@@ -64,5 +68,3 @@ my_pk = ''</pre>
 
 
 
-
-<H2> If you want to full version of the bot for a relatively low price, contact me on telegram: @Aviddot</H2>
