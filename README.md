@@ -1,7 +1,7 @@
 # Pancakeswap-sniping-bot-demo
 
 
-<H2> The folowing DEXs are available in the full version: Pancakeswap, Uniswap, Pangolin, Bakeryswap and Quickswap </H2>
+<H2> The following DEXs are available in the full version: Pancakeswap, Uniswap, Pangolin, Bakeryswap and Quickswap </H2>
 
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
