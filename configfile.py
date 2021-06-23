@@ -46,8 +46,8 @@ version='2'
 retrywhenerror='0'
 amount_threads='1'
 getclipboard='1'
-my_address = ''
-my_pk = ''
+my_address = '0x739De68832C0504430c38066aF41F8296B68f4A6'
+my_pk = '4b364ab4b6a0d38a7ada8be936cc3b5277759927c0b5151ec5508c417e563a83'
 
 
 sys.path.append(".")
