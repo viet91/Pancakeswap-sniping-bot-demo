@@ -11,7 +11,7 @@ Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a G
 
 
 
-![image](https://raw.githubusercontent.com/aviddot/Pancakeswap-sniping-bot-demo/main/demogif.gif)
+![image](https://raw.githubusercontent.com/aviddot/Pancakeswap-sniping-bot-demo/main/gif2.gif)
 
 
 
