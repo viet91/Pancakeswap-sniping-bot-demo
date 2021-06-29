@@ -1,17 +1,17 @@
 # Pancakeswap-sniping-bot-demo
 
 
-<H2> The following DEXs are available in the full version: Pancakeswap, Uniswap, Pangolin, Bakeryswap and Quickswap </H2>
+<H2> The following DEXs are available in the full version: Pancakeswap, Uniswap, Pangolin, Bakeryswap, Sushiswap and Quickswap </H2>
 
 Pancakeswap sniping bot demo to snipe during IDO's. With advanced option and a GUI.
 
 
 
-<H3>If you have any questions or inquiries, or want the full version of this bot, you can contact my support via telegram: <b><a href="https://t.me/aviddotsupport2">@aviddotsupport2</a> (please note: this is not the maker of the bot, it's someone who delivers the support)</b> </H3>
+<H3>If you have any questions or inquiries, or want the full version of this bot, you can contact my support via Discord: AviddotSupport#8131 OR telegram: <b><a href="https://t.me/aviddotsupports">@aviddotsupports</a>(please note: this is not the maker of the bot, it's someone who delivers the support)</b> </H3>
 
 
 
-![image](https://raw.githubusercontent.com/aviddot/Pancakeswap-sniping-bot-demo/main/demogif.gif)
+![image](https://raw.githubusercontent.com/aviddot/Pancakeswap-sniping-bot-demo/main/gif2.gif)
 
 
 
